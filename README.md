@@ -5,6 +5,8 @@ A test case for testing react + mobx, using enzyme where a warning is thrown.
 
 `npm i`
 
+(may take a while)
+
 ## Usage
 
 `npm test`
