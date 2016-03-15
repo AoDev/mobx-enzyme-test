@@ -18,7 +18,8 @@ You will find both tests and components files in the `src` folder.
 ## Expected result
 
 * Tests are passing
-* mobx-react warnings
+* mobx-react warnings with version 3.0.1
+* mobx-react fixed warnings with version 3.0.2
 
 ```
 [mobx-react] Warning: A re-render was triggered before the component 'UserPassword#.0.render()', was mounted. Is (another) component trying to modify state in it's constructor / getInitialState? Use componentWillMount instead.
