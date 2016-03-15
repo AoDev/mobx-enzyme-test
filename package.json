@@ -27,7 +27,7 @@
     "enzyme": "2.0.0",
     "jsdom": "8.1.0",
     "mobx": "^2.0.2",
-    "mobx-react": "^3.0.1",
+    "mobx-react": "^3.0.2",
     "mocha": "2.4.5",
     "react": "0.14.7",
     "react-addons-test-utils": "^0.14.7",
