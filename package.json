@@ -1,8 +1,8 @@
 {
-  "name": "trace-client",
+  "name": "mobx-enzyme-test",
   "private": true,
   "version": "1.0.1",
-  "description": "Trace Client",
+  "description": "mobx-enzyme-test",
   "main": "server.js",
   "scripts": {
     "test": "TZ=utc mocha --compilers js:babel-register test/setup.js 'src/**/*spec.js'"
